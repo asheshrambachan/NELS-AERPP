@@ -1,0 +1,4 @@
+[Raw] Rows: 12144
+[BY & F4] Rows: 11384
+[BY & F4 > F1] Rows: 10577
+[BY & F4 > F2] Rows: 10232
